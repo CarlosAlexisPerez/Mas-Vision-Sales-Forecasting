@@ -1,6 +1,34 @@
 # 📊 Más Visión Sales Forecasting
 
-Proyecto de Ciencia de Datos enfocado en el análisis exploratorio, visualización ejecutiva y predicción de ventas para la empresa retail Más Visión mediante técnicas de Machine Learning y Business Intelligence.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![ARIMA](https://img.shields.io/badge/Forecasting-ARIMA-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Time_Series-orange?style=for-the-badge)
+
+Proyecto de Ciencia de Datos orientado al análisis estratégico y forecasting de ventas retail mediante técnicas de Machine Learning, series temporales, análisis exploratorio de datos y visualización ejecutiva.
+
+---
+
+# 📑 Tabla de Contenido
+
+- Descripción del Proyecto
+- Objetivo del Proyecto
+- Problemática de Negocio
+- Tecnologías Utilizadas
+- Estructura del Proyecto
+- Dataset
+- Análisis Exploratorio de Datos (EDA)
+- Dashboard Ejecutivo
+- Modelo Predictivo
+- Métricas del Modelo
+- Resultados Obtenidos
+- Forecast de Ventas 2025
+- Habilidades Demostradas
+- Riesgos y Oportunidades
+- Recomendaciones Estratégicas
+- Archivos Relevantes
+- Próximos Pasos
 
 ---
 
@@ -8,15 +36,16 @@ Proyecto de Ciencia de Datos enfocado en el análisis exploratorio, visualizaci�
 
 La planificación estratégica de ventas en empresas retail requiere modelos predictivos capaces de identificar tendencias, patrones comerciales y comportamiento histórico de las sucursales.
 
-Más Visión enfrenta el reto de mejorar la precisión en la proyección de ventas mensuales para el año 2025, utilizando información histórica correspondiente al periodo 2022–2024.
+Más Visión enfrentaba el reto de mejorar la precisión en la proyección de ventas mensuales para el año 2025 utilizando información histórica correspondiente al periodo 2022–2024.
 
 El proyecto fue desarrollado con el objetivo de transformar datos comerciales en información estratégica mediante:
 
 - Análisis Exploratorio de Datos (EDA)
 - Visualización interactiva en Power BI
 - Forecasting con modelos ARIMA
-- Generación de predicciones comerciales
-- Identificación de patrones y tendencias de negocio
+- Predicción de ventas
+- Identificación de patrones comerciales
+- Generación de insights estratégicos
 
 ---
 
@@ -28,19 +57,19 @@ Desarrollar un modelo predictivo de ventas que permita estimar el comportamiento
 
 # 🧠 Problemática de Negocio
 
-La empresa realizaba estimaciones comerciales utilizando métodos generales que no consideraban adecuadamente:
+La empresa realizaba estimaciones comerciales utilizando criterios generales que no consideraban adecuadamente:
 
 - Patrones históricos de ventas
-- Diferencias entre formatos de sucursal
-- Comportamiento estacional
+- Estacionalidad comercial
 - Impacto de descuentos
-- Variabilidad comercial entre ubicaciones
+- Variabilidad entre sucursales
+- Diferencias entre formatos de tienda
 
 Esto afectaba:
-- La planeación financiera
-- La asignación de metas comerciales
-- La gestión de inventario
-- La toma de decisiones estratégicas
+- Planeación financiera
+- Gestión de inventario
+- Establecimiento de metas comerciales
+- Toma de decisiones estratégicas
 
 ---
 
@@ -49,11 +78,11 @@ Esto afectaba:
 | Herramienta | Uso |
 |---|---|
 | Python | Análisis y modelado |
-| Pandas | Limpieza y transformación de datos |
+| Pandas | Limpieza y transformación |
 | NumPy | Procesamiento numérico |
-| Matplotlib | Visualización de datos |
+| Matplotlib | Visualización |
 | Seaborn | Análisis gráfico |
-| Statsmodels | Modelado ARIMA |
+| Statsmodels | Modelo ARIMA |
 | Power BI | Dashboard ejecutivo |
 | Excel | Gestión de datasets |
 
