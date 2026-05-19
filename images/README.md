@@ -9,11 +9,8 @@ Las imágenes permiten ilustrar los hallazgos obtenidos mediante análisis explo
 ## Contenido
 
 - Dashboard ejecutivo en Power BI
-- Tendencias históricas de ventas
 - Forecast de ventas 2025
 - Resultados del modelo ARIMA
-- Insights comerciales
-- Visualizaciones del análisis exploratorio (EDA)
 
 ---
 
