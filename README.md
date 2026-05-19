@@ -205,7 +205,7 @@ Las predicciones generadas permiten:
 - Establecer metas comerciales más realistas
 - Fortalecer la toma de decisiones basada en datos
 
-![Forecast](images/forecast-de-ventas-2025.png)
+![Forecast](images/Forecast-de-ventas-2025.png)
 
 ---
 
@@ -215,7 +215,7 @@ La visualización del modelo ARIMA permite comparar el comportamiento histórico
 
 El modelo logró capturar patrones relevantes de la serie temporal y generar proyecciones consistentes para apoyar la planeación estratégica y comercial.
 
-![ARIMA](images/resultados-modelo-ARIMA.png)
+![ARIMA](images/Resultados-modelo-ARIMA.png)
 
 # 🚀 Habilidades Demostradas
 
