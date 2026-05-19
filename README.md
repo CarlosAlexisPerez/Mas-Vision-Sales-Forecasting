@@ -215,7 +215,7 @@ La visualización del modelo ARIMA permite comparar el comportamiento histórico
 
 El modelo logró capturar patrones relevantes de la serie temporal y generar proyecciones consistentes para apoyar la planeación estratégica y comercial.
 
-![ARIMA](images/Resultados-modelo-ARIMA.png)
+![ARIMA](images/Resultados-del-modelo-ARIMA.png)
 
 # 🚀 Habilidades Demostradas
 
